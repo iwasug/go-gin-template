@@ -1,0 +1,6 @@
+server:
+  port: localhost:5099
+http:
+  auth:
+    key: "secret"
+    secret: "secret"    
